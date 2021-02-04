@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Curlos/random-quote-machine/static/css/main.fd5b7504.chunk.css",
+    "main.js": "/Curlos/random-quote-machine/static/js/main.f28746f9.chunk.js",
+    "main.js.map": "/Curlos/random-quote-machine/static/js/main.f28746f9.chunk.js.map",
+    "runtime-main.js": "/Curlos/random-quote-machine/static/js/runtime-main.fd75fe7d.js",
+    "runtime-main.js.map": "/Curlos/random-quote-machine/static/js/runtime-main.fd75fe7d.js.map",
+    "static/css/2.150d169a.chunk.css": "/Curlos/random-quote-machine/static/css/2.150d169a.chunk.css",
+    "static/js/2.2a3e9199.chunk.js": "/Curlos/random-quote-machine/static/js/2.2a3e9199.chunk.js",
+    "static/js/2.2a3e9199.chunk.js.map": "/Curlos/random-quote-machine/static/js/2.2a3e9199.chunk.js.map",
+    "index.html": "/Curlos/random-quote-machine/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Curlos/random-quote-machine/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.fd5b7504.chunk.css.map": "/Curlos/random-quote-machine/static/css/main.fd5b7504.chunk.css.map",
+    "static/js/2.2a3e9199.chunk.js.LICENSE.txt": "/Curlos/random-quote-machine/static/js/2.2a3e9199.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd75fe7d.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.2a3e9199.chunk.js",
+    "static/css/main.fd5b7504.chunk.css",
+    "static/js/main.f28746f9.chunk.js"
+  ]
+}
