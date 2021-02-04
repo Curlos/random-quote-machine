@@ -1,0 +1,11 @@
+#quote-box {
+    margin: auto;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    padding: 10px;
+}
+
+#tweet-quote {
+    margin: 10px;
+}
